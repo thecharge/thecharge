@@ -5,7 +5,7 @@
 
 ---
 
-I've spent 15 years building across the full stack — from FPGA pin constraints to Kubernetes orchestration, from HIPAA-compliant healthcare platforms to financial compliance systems. 
+I've spent last more than 15 years building across the full stack — from FPGA pin constraints to Kubernetes orchestration, from HIPAA-compliant healthcare platforms to financial compliance systems. 
 
 The common thread: I'm most interested in the problems that live at the intersection of disciplines most engineers pick only one of.
 
