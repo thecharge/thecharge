@@ -69,8 +69,6 @@ Built on the same blackboard principles as sndv-kv, applied to autonomous softwa
 **Primary stack:** TypeScript · React/Native · Go (→ Zig will come as replacement) · Python · Kubernetes · PostgreSQL · Kafka · Cloud (AWS/GCP)
 
 
-**Certifications:** SEI SAPP · SAFe Practitioner · SRE · IBM Big Data · HIPAA
-
 ---
 
 ## What I'm exploring
