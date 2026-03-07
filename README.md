@@ -52,7 +52,7 @@ audit trail system with hash-chained records.
 
 ---
 
-### Enterprise AI Copilot *(in development)*
+### [Enterprise AI Copilot](https://github.com/thecharge/companion) *(in development)*
 
 Blackboard-based reasoning loop for enterprise software delivery — from PRD to production.
 
